@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Swami Bhawan Branch Map</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans p-6">
+  <h1 class="text-3xl font-bold mb-4">🛏️ Swami Bhawan Room Branch Visualizer</h1>
+
+  <div class="mb-6">
+    <label for="branchSelect" class="block mb-2 text-lg">🔍 Select a branch</label>
+    <select id="branchSelect" class="p-2 rounded text-black">
+      <option value="">-- All Branches --</option>
+    </select>
+  </div>
+
+  <div class="bg-gray-800 p-4 rounded mb-8">
+    <h2 class="text-xl font-semibold mb-2">📊 Students per Branch</h2>
+    <canvas id="branchChart" height="100"></canvas>
+  </div>
+
+  <div class="bg-gray-800 p-4 rounded mb-8">
+    <h2 class="text-xl font-semibold mb-4">🏢 Floor Distribution per Wing</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div><h3 class="text-lg font-semibold mb-2">A Wing</h3><canvas id="AWingChart"></canvas></div>
+      <div><h3 class="text-lg font-semibold mb-2">B Wing</h3><canvas id="BWingChart"></canvas></div>
+      <div><h3 class="text-lg font-semibold mb-2">C Wing</h3><canvas id="CWingChart"></canvas></div>
+    </div>
+  </div>
+
+
+  <div class="bg-gray-800 p-4 rounded">
+    <h2 class="text-xl font-semibold mb-4">🏠 Room-Wise List</h2>
+    <table class="w-full text-sm table-auto">
+      <thead class="bg-gray-700">
+        <tr>
+          <th class="p-2">Room</th>
+          <th class="p-2">Name</th>
+          <th class="p-2">Admission No.</th>
+        </tr>
+      </thead>
+      <tbody id="roomTableBody"></tbody>
+    </table>
+  </div>
+
+   <div class="bg-gray-800 p-4 rounded mb-8">
+    <h2 class="text-xl font-semibold mb-4">🔄 Mixed-Branch Roommates (helpful for Exchange)</h2>
+    <table class="w-full text-sm table-auto">
+      <thead class="bg-gray-700">
+        <tr>
+          <th class="p-2">Room</th>
+          <th class="p-2">Name</th>
+          <th class="p-2">Admission No.</th>
+          <th class="p-2">Branch</th>
+        </tr>
+      </thead>
+      <tbody id="exchangeTableBody"></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
