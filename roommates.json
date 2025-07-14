@@ -1,0 +1,2904 @@
+[
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A201",
+    "roommates": [
+      {
+        "name": "Parth Bipinbhai Vaishnav",
+        "admission_no": "U24ME151"
+      },
+      {
+        "name": "Raghav Bhatia",
+        "admission_no": "U24AI054"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A202",
+    "roommates": [
+      {
+        "name": "Yashwanth N",
+        "admission_no": "U24AI118"
+      },
+      {
+        "name": "Jarpula Avinash",
+        "admission_no": "U24EE105"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A203",
+    "roommates": [
+      {
+        "name": "Prajapati Dhruneel Kamleshkumar",
+        "admission_no": "U24CS060"
+      },
+      {
+        "name": "Rohit Saini",
+        "admission_no": "U24CE106"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A204",
+    "roommates": [
+      {
+        "name": "Satyam Singh",
+        "admission_no": "U24CH010"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A205",
+    "roommates": [
+      {
+        "name": "Aryan Sunil Kulkarni",
+        "admission_no": "U24ME101"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A206",
+    "roommates": [
+      {
+        "name": "Kulkarni Prateek Puneet",
+        "admission_no": "U24ME039"
+      },
+      {
+        "name": "Gambhol Karan Gautambhai",
+        "admission_no": "U24ME148"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A207",
+    "roommates": [
+      {
+        "name": "Parlapalli Kranthi Kiran",
+        "admission_no": "U24CS163"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A208",
+    "roommates": [
+      {
+        "name": "Abhishek Rajak",
+        "admission_no": "U24EC031"
+      },
+      {
+        "name": "Patel Deep Vinodbhai",
+        "admission_no": "U24CE032"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A209",
+    "roommates": [
+      {
+        "name": "Pandiri Sharath Chandra",
+        "admission_no": "U24EV049"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A212",
+    "roommates": [
+      {
+        "name": "Armaan Imran Bhadelia",
+        "admission_no": "U24AI099"
+      },
+      {
+        "name": "Khatib Arshad Mujibalam",
+        "admission_no": "U24AI112"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A213",
+    "roommates": [
+      {
+        "name": "Ayush Pal",
+        "admission_no": "U24ME088"
+      },
+      {
+        "name": "Patel Harshil Jayeshkumar",
+        "admission_no": "U24ME122"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A214",
+    "roommates": [
+      {
+        "name": "Yash Kumar",
+        "admission_no": "U24CH021"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A215",
+    "roommates": [
+      {
+        "name": "Savani Harshadkumar Sanjaybhai",
+        "admission_no": "U24EE063"
+      },
+      {
+        "name": "Rahul",
+        "admission_no": "U24EE083"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A301",
+    "roommates": [
+      {
+        "name": "Soham Viral Modi",
+        "admission_no": "U24ME094"
+      },
+      {
+        "name": "Patel Krish Lalitchandra",
+        "admission_no": "U24CH056"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A302",
+    "roommates": [
+      {
+        "name": "Malyala Anil Kumar",
+        "admission_no": "U24CS059"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A303",
+    "roommates": [
+      {
+        "name": "Ketul Mevada",
+        "admission_no": "U24ME102"
+      },
+      {
+        "name": "Ansh Prajapati",
+        "admission_no": "U24EC048"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A304",
+    "roommates": [
+      {
+        "name": "Shubham Tiwari",
+        "admission_no": "U24EC035"
+      },
+      {
+        "name": "Aryan Divyang Shah",
+        "admission_no": "U24EE119"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A305",
+    "roommates": [
+      {
+        "name": "Kartikey Gadhvi",
+        "admission_no": "U24ME166"
+      },
+      {
+        "name": "Patel Umang Maheshkumar",
+        "admission_no": "U24AI041"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A306",
+    "roommates": [
+      {
+        "name": "Patel Vivekkumar Nareshbhai",
+        "admission_no": "U24AI040"
+      },
+      {
+        "name": "Dubey Dhirajkumar Dilipkumar",
+        "admission_no": "I24AI011"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A307",
+    "roommates": [
+      {
+        "name": "Hitesh Kumar Baldeva",
+        "admission_no": "U24AI046"
+      },
+      {
+        "name": "Ashwani Raj",
+        "admission_no": "U24CE059"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A308",
+    "roommates": [
+      {
+        "name": "Mori Aryan Ashokbhai",
+        "admission_no": "U24CS080"
+      },
+      {
+        "name": "Bhatt Abhishek Dushyantbhai",
+        "admission_no": "U24CE033"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A309",
+    "roommates": [
+      {
+        "name": "Padariya Krishna",
+        "admission_no": "U24ME047"
+      },
+      {
+        "name": "Vineet Gupta",
+        "admission_no": "U24CS117"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A310",
+    "roommates": [
+      {
+        "name": "Mandanka Dhruvkumar Janakbhai",
+        "admission_no": "U24CH100"
+      },
+      {
+        "name": "Singh Anand Ganpat",
+        "admission_no": "U24CH106"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A311",
+    "roommates": [
+      {
+        "name": "Aryan Singh",
+        "admission_no": "U24CH069"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A312",
+    "roommates": [
+      {
+        "name": "Manthan Laddha",
+        "admission_no": "U24AI072"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A313",
+    "roommates": [
+      {
+        "name": "Het Pushpaksinh Makwana",
+        "admission_no": "U24CH071"
+      },
+      {
+        "name": "Akash Sharma",
+        "admission_no": "U24CE079"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A314",
+    "roommates": [
+      {
+        "name": "Fanse Rudraksh Kailash",
+        "admission_no": "U24CS022"
+      },
+      {
+        "name": "Vinit Gupta",
+        "admission_no": "U24EE113"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A315",
+    "roommates": [
+      {
+        "name": "Patel Shreykumar Milinkumar",
+        "admission_no": "U24CE062"
+      },
+      {
+        "name": "Patel Yash Bharat",
+        "admission_no": "U24CE130"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A401",
+    "roommates": [
+      {
+        "name": "Rushil Hiren Shah",
+        "admission_no": "U24ME048"
+      },
+      {
+        "name": "Kadvani Karan Jagdishbhai",
+        "admission_no": "U24AI065"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A402",
+    "roommates": [
+      {
+        "name": "Chetan Anand",
+        "admission_no": "U24CE055"
+      },
+      {
+        "name": "Pendem Shiva Sourabh",
+        "admission_no": "I24PH034"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A403",
+    "roommates": [
+      {
+        "name": "Buch Priyansh Munishbhai",
+        "admission_no": "U24ME085"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A404",
+    "roommates": [
+      {
+        "name": "Savani Viraj Maheshbhai",
+        "admission_no": "U24EC030"
+      },
+      {
+        "name": "Bommi Hemanth Kumar",
+        "admission_no": "U24IC003"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A405",
+    "roommates": [
+      {
+        "name": "Yadav Anurag Brijesh",
+        "admission_no": "U24ME208"
+      },
+      {
+        "name": "Manav Sahu",
+        "admission_no": "U24CE003"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A406",
+    "roommates": [
+      {
+        "name": "Bhalekar Gandharv Rajendra",
+        "admission_no": "U24CS152"
+      },
+      {
+        "name": "Atmadeep Aditya",
+        "admission_no": "U24ME237"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A408",
+    "roommates": [
+      {
+        "name": "Vaniya Rakshit",
+        "admission_no": "U24ME167"
+      },
+      {
+        "name": "Pratyaksh Raj",
+        "admission_no": "U24CE036"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A409",
+    "roommates": [
+      {
+        "name": "Mohit Jakhar",
+        "admission_no": "U24ME171"
+      },
+      {
+        "name": "Bhagath Sreejith",
+        "admission_no": "U24ME195"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A410",
+    "roommates": [
+      {
+        "name": "Bhavsar Malav Alpeshbhai",
+        "admission_no": "U24ME179"
+      },
+      {
+        "name": "Ayush Sharma",
+        "admission_no": "U24CH031"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A411",
+    "roommates": [
+      {
+        "name": "Guntha Venkata Subba Sai Teja",
+        "admission_no": "U24EC107"
+      },
+      {
+        "name": "Ankit Gurjar",
+        "admission_no": "U24CE057"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A412",
+    "roommates": [
+      {
+        "name": "Namballa Siddardha",
+        "admission_no": "U24EC104"
+      },
+      {
+        "name": "Manu Rajput",
+        "admission_no": "U24CH023"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A413",
+    "roommates": [
+      {
+        "name": "Ayush Jain",
+        "admission_no": "U24CH038"
+      },
+      {
+        "name": "Pratyaksh Dhankhar",
+        "admission_no": "U24CE083"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A414",
+    "roommates": [
+      {
+        "name": "Md Aftab Siddiqui",
+        "admission_no": "U24AI058"
+      },
+      {
+        "name": "Abadh Kishor Yadav",
+        "admission_no": "U24ME234"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A504",
+    "roommates": [
+      {
+        "name": "Kunachi Siddhant Praful",
+        "admission_no": "U24ME071"
+      },
+      {
+        "name": "Aditya Anand Kulkarni",
+        "admission_no": "U24CH043"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A505",
+    "roommates": [
+      {
+        "name": "Sarthak Solanki",
+        "admission_no": "U24ME125"
+      },
+      {
+        "name": "Shubh Srivastava",
+        "admission_no": "U24CS150"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A507",
+    "roommates": [
+      {
+        "name": "Amogh Agarwal",
+        "admission_no": "U24EE106"
+      },
+      {
+        "name": "Nishit Panchal",
+        "admission_no": "I24CY007"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A508",
+    "roommates": [
+      {
+        "name": "Niranjankumar Yadav",
+        "admission_no": "U24AI107"
+      },
+      {
+        "name": "Tiwari Avanishkumar Arunkumar",
+        "admission_no": "U24CE006"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A509",
+    "roommates": [
+      {
+        "name": "Dev Patel",
+        "admission_no": "U24CE031"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A510",
+    "roommates": [
+      {
+        "name": "Ankit Kumar",
+        "admission_no": "U24EE110"
+      },
+      {
+        "name": "Shankhala Yug",
+        "admission_no": "U24CE045"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A512",
+    "roommates": [
+      {
+        "name": "Jeel Sureshbhai Patel",
+        "admission_no": "U24CE043"
+      },
+      {
+        "name": "Shivam Santosh Yadav",
+        "admission_no": "U24CH052"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A514",
+    "roommates": [
+      {
+        "name": "Patel Jay Miteshbhai",
+        "admission_no": "U24AI119"
+      },
+      {
+        "name": "Neel Yatharth Pravin",
+        "admission_no": "U24CH045"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A515",
+    "roommates": [
+      {
+        "name": "Salunke Nakshatra Kamaleshkumar",
+        "admission_no": "U24EC014"
+      },
+      {
+        "name": "Aseem Aggarwal",
+        "admission_no": "U24EC027"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A603",
+    "roommates": [
+      {
+        "name": "Arunjay Sachan",
+        "admission_no": "I24AI024"
+      },
+      {
+        "name": "Aniruddha Mukherjee",
+        "admission_no": "U24CE090"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A604",
+    "roommates": [
+      {
+        "name": "Rohit Yadav",
+        "admission_no": "U24CS050"
+      },
+      {
+        "name": "Ayush Tiwari",
+        "admission_no": "U24EC065"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A605",
+    "roommates": [
+      {
+        "name": "Katakam Abhilash",
+        "admission_no": "U24ME109"
+      },
+      {
+        "name": "Mituraj Vadodariya",
+        "admission_no": "U24CE093"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A606",
+    "roommates": [
+      {
+        "name": "Palash Bhatt",
+        "admission_no": "U24EE074"
+      },
+      {
+        "name": "Lokesh Vikas Patil",
+        "admission_no": "U24ME133"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A607",
+    "roommates": [
+      {
+        "name": "Sagpariya Vishnu Chandreshbhai",
+        "admission_no": "U24EE078"
+      },
+      {
+        "name": "Krishna Suresh Baheti",
+        "admission_no": "U24AI133"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A608",
+    "roommates": [
+      {
+        "name": "Vansh Jain",
+        "admission_no": "U24EE100"
+      },
+      {
+        "name": "Sarang N S",
+        "admission_no": "U24EC072"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A609",
+    "roommates": [
+      {
+        "name": "Prince Vala",
+        "admission_no": "U24ME016"
+      },
+      {
+        "name": "Darsh Alpeshbhai Limbasia",
+        "admission_no": "U24ME190"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A610",
+    "roommates": [
+      {
+        "name": "Das Dhruv Shankar",
+        "admission_no": "U24EC079"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A612",
+    "roommates": [
+      {
+        "name": "Aman Gupta",
+        "admission_no": "U24EV011"
+      },
+      {
+        "name": "Jay Vekariya",
+        "admission_no": "U24EV044"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A614",
+    "roommates": [
+      {
+        "name": "Panchal Manav Neeraj",
+        "admission_no": "U24EE067"
+      },
+      {
+        "name": "Suryawanshi Harshal Balu",
+        "admission_no": "U24ME187"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A704",
+    "roommates": [
+      {
+        "name": "Harsh Kulhari",
+        "admission_no": "I24MA028"
+      },
+      {
+        "name": "Ankit",
+        "admission_no": "I24CY004"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A706",
+    "roommates": [
+      {
+        "name": "Dubbas Akhilkumar Ravindrabhai",
+        "admission_no": "I24PH012"
+      },
+      {
+        "name": "Piyush Singh Solanki",
+        "admission_no": "U24CE012"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A708",
+    "roommates": [
+      {
+        "name": "Garv Pathak",
+        "admission_no": "U24EV046"
+      },
+      {
+        "name": "Samarth Girish Mandage",
+        "admission_no": "U24CH118"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A709",
+    "roommates": [
+      {
+        "name": "Om Dipendrasinh Vaghela",
+        "admission_no": "U24ME083"
+      },
+      {
+        "name": "Dhirendra Singh",
+        "admission_no": "U24IC010"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A710",
+    "roommates": [
+      {
+        "name": "Somil Vyas",
+        "admission_no": "U24IC004"
+      },
+      {
+        "name": "Sandip Manna",
+        "admission_no": "I24CY016"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A712",
+    "roommates": [
+      {
+        "name": "Saurabh Ramlochan Patel",
+        "admission_no": "U24CH116"
+      },
+      {
+        "name": "Abhinav Patil",
+        "admission_no": "U24ME250"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A808",
+    "roommates": [
+      {
+        "name": "Ginoya Divyam Ashwinbhai",
+        "admission_no": "U24ME063"
+      },
+      {
+        "name": "Arun Rajput",
+        "admission_no": "U24ME236"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "A809",
+    "roommates": [
+      {
+        "name": "Wabale Sandesh Kundalik",
+        "admission_no": "U24CH016"
+      },
+      {
+        "name": "Rajkumar Meena",
+        "admission_no": "U24CE108"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B201",
+    "roommates": [
+      {
+        "name": "Damor Gaurav Bapusinh",
+        "admission_no": "U24AI026"
+      },
+      {
+        "name": "Walke Niranjan Gopal",
+        "admission_no": "U24EE120"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B202",
+    "roommates": [
+      {
+        "name": "Devarakonda Varshith",
+        "admission_no": "U24AI083"
+      },
+      {
+        "name": "Sujal",
+        "admission_no": "I24PH040"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B203",
+    "roommates": [
+      {
+        "name": "Dyavanapally Charan Tej",
+        "admission_no": "I24AI016"
+      },
+      {
+        "name": "Bhaskar Sahu",
+        "admission_no": "I24AI029"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B204",
+    "roommates": [
+      {
+        "name": "Adduri Sai Amit Rao",
+        "admission_no": "U24ME042"
+      },
+      {
+        "name": "Narahari Yuva Raja",
+        "admission_no": "U24ME082"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B205",
+    "roommates": [
+      {
+        "name": "Bollam Varshit",
+        "admission_no": "U24CS069"
+      },
+      {
+        "name": "Dilipkumar Bhimaram Prajapati",
+        "admission_no": "U24CH126"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B206",
+    "roommates": [
+      {
+        "name": "Nisargkumar Kapilbhai Parmar",
+        "admission_no": "U24ME067"
+      },
+      {
+        "name": "Chirag Kaushik",
+        "admission_no": "U24EE098"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B207",
+    "roommates": [
+      {
+        "name": "Alakhkumar Bathani",
+        "admission_no": "U24AI102"
+      },
+      {
+        "name": "Chiluveru Sreeshanth",
+        "admission_no": "U24AI129"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B208",
+    "roommates": [
+      {
+        "name": "Patel Dev Manojbhai",
+        "admission_no": "U24EV029"
+      },
+      {
+        "name": "Saumil Shah",
+        "admission_no": "U24CH059"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B210",
+    "roommates": [
+      {
+        "name": "Patel Sanskar Vimal",
+        "admission_no": "U24ME040"
+      },
+      {
+        "name": "Aryan Manoj Singh",
+        "admission_no": "U24CE131"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B211",
+    "roommates": [
+      {
+        "name": "Prajapati Jenil Nilesh",
+        "admission_no": "U24CS107"
+      },
+      {
+        "name": "Jeetu Mehra",
+        "admission_no": "U24AI032"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B212",
+    "roommates": [
+      {
+        "name": "Pandya Dhyey Hiteshkumar",
+        "admission_no": "U24EC039"
+      },
+      {
+        "name": "Raman",
+        "admission_no": "I24PH018"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B213",
+    "roommates": [
+      {
+        "name": "Rathod Vishesh Chiragkumar",
+        "admission_no": "U24ME060"
+      },
+      {
+        "name": "Kapadiya Aditya Ravikumar",
+        "admission_no": "U24ME144"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B214",
+    "roommates": [
+      {
+        "name": "Harikesh Pasi",
+        "admission_no": "U24CS047"
+      },
+      {
+        "name": "Shah Siddhkumar Prashant",
+        "admission_no": "I24AI004"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B215",
+    "roommates": [
+      {
+        "name": "G M Sanjit Krishna",
+        "admission_no": "I24PH006"
+      },
+      {
+        "name": "Bandi Aravind",
+        "admission_no": "U24EC105"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B301",
+    "roommates": [
+      {
+        "name": "Kartikeya Aryam",
+        "admission_no": "I24MA011"
+      },
+      {
+        "name": "Chirag Baingani",
+        "admission_no": "I24PH016"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B302",
+    "roommates": [
+      {
+        "name": "Samyak Saxena",
+        "admission_no": "U24CS110"
+      },
+      {
+        "name": "Manthan Rathod",
+        "admission_no": "U24EC127"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B303",
+    "roommates": [
+      {
+        "name": "Kanada Param Rasiklal",
+        "admission_no": "U24AI047"
+      },
+      {
+        "name": "Mayankkumar Rathva",
+        "admission_no": "U24AI123"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B304",
+    "roommates": [
+      {
+        "name": "Ashutosh Patel",
+        "admission_no": "U24CS123"
+      },
+      {
+        "name": "Ambavade Nihit Shobhit",
+        "admission_no": "I24PH015"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B305",
+    "roommates": [
+      {
+        "name": "Shriram Alagaperumal Thirumavalavan",
+        "admission_no": "U24CS023"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B306",
+    "roommates": [
+      {
+        "name": "Samyak P Chadaga",
+        "admission_no": "U24EV031"
+      },
+      {
+        "name": "Samhith B S",
+        "admission_no": "U24EV032"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B307",
+    "roommates": [
+      {
+        "name": "Nenavath Mithesh Manas",
+        "admission_no": "U24CS030"
+      },
+      {
+        "name": "Achintya Singhal",
+        "admission_no": "U24CE018"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B308",
+    "roommates": [
+      {
+        "name": "Bagada Rushang Atulbhai",
+        "admission_no": "U24CS076"
+      },
+      {
+        "name": "Divyansh Tiwari",
+        "admission_no": "U24EC063"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B309",
+    "roommates": [
+      {
+        "name": "Krishna Tahiliani",
+        "admission_no": "U24CS068"
+      },
+      {
+        "name": "Ashish Kumar Jha",
+        "admission_no": "U24CE050"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B310",
+    "roommates": [
+      {
+        "name": "Ayushman Singh",
+        "admission_no": "U24CS103"
+      },
+      {
+        "name": "Behera Mayank Biswanath",
+        "admission_no": "U24CS105"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B311",
+    "roommates": [
+      {
+        "name": "Prabal Pratap Singh",
+        "admission_no": "U24EC098"
+      },
+      {
+        "name": "Keshav Raj",
+        "admission_no": "U24CH066"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B312",
+    "roommates": [
+      {
+        "name": "Gaurav Singh Nayal",
+        "admission_no": "U24EC148"
+      },
+      {
+        "name": "Harsh Sharma",
+        "admission_no": "U24CE129"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B313",
+    "roommates": [
+      {
+        "name": "Ayushman",
+        "admission_no": "I24AI017"
+      },
+      {
+        "name": "Harshit Dave",
+        "admission_no": "U24EC147"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B314",
+    "roommates": [
+      {
+        "name": "Vaibhav Agarwal",
+        "admission_no": "U24EP009"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B315",
+    "roommates": [
+      {
+        "name": "Prateek Kumar Pathak",
+        "admission_no": "U24CE038"
+      },
+      {
+        "name": "Hatker Preet Mahesh",
+        "admission_no": "U24EC149"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B401",
+    "roommates": [
+      {
+        "name": "Sharad Jhanwar",
+        "admission_no": "U24CS111"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B402",
+    "roommates": [
+      {
+        "name": "Kavya Jain",
+        "admission_no": "U24AI098"
+      },
+      {
+        "name": "Krishnav Desai",
+        "admission_no": "I24PH010"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B403",
+    "roommates": [
+      {
+        "name": "Dhilawala Moiz Mohamedibhai",
+        "admission_no": "U24EC140"
+      },
+      {
+        "name": "Ajay Kumar Meena",
+        "admission_no": "U24CH075"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B404",
+    "roommates": [
+      {
+        "name": "Gupta Ansh Amit",
+        "admission_no": "I24AI005"
+      },
+      {
+        "name": "Suraj Shah",
+        "admission_no": "I24AI012"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B405",
+    "roommates": [
+      {
+        "name": "Md Sajid Ahmad",
+        "admission_no": "I24PH005"
+      },
+      {
+        "name": "Hammad Mohammad",
+        "admission_no": "U24EC101"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B406",
+    "roommates": [
+      {
+        "name": "Rajdeep Paul",
+        "admission_no": "U24AI089"
+      },
+      {
+        "name": "Shingala Dhruvkumar Mukeshbhai",
+        "admission_no": "U24EV057"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B407",
+    "roommates": [
+      {
+        "name": "Desai Bhavya",
+        "admission_no": "U24EC134"
+      },
+      {
+        "name": "Mehul Jindal",
+        "admission_no": "I24MA024"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B408",
+    "roommates": [
+      {
+        "name": "Devansh Surana",
+        "admission_no": "U24AI074"
+      },
+      {
+        "name": "Prajapati Rudra Dharmendra",
+        "admission_no": "U24EC125"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B409",
+    "roommates": [
+      {
+        "name": "Sheth Siddharth Hirenbhai",
+        "admission_no": "U24CS024"
+      },
+      {
+        "name": "Patadiya Pratham Prafullbhai",
+        "admission_no": "U24AI023"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B410",
+    "roommates": [
+      {
+        "name": "Thakkar Vedant Amrishbhai",
+        "admission_no": "U24EC082"
+      },
+      {
+        "name": "Prajapati Karan Prakashbhai",
+        "admission_no": "U24EC088"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B411",
+    "roommates": [
+      {
+        "name": "Patel Harsh Dhaval",
+        "admission_no": "U24EC091"
+      },
+      {
+        "name": "Bhatt Jeet Sunil",
+        "admission_no": "U24EC092"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B412",
+    "roommates": [
+      {
+        "name": "Anant Rajesh Sharma",
+        "admission_no": "U24CH014"
+      },
+      {
+        "name": "Abhinav S Chaudhary",
+        "admission_no": "U24CH065"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B413",
+    "roommates": [
+      {
+        "name": "Mojidra Neel Mayurbhai",
+        "admission_no": "U24EC081"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B414",
+    "roommates": [
+      {
+        "name": "Henil Shah",
+        "admission_no": "U24AI084"
+      },
+      {
+        "name": "Patil Aditya Arjun",
+        "admission_no": "U24AI087"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B415",
+    "roommates": [
+      {
+        "name": "Pranav Jain",
+        "admission_no": "U24ME159"
+      },
+      {
+        "name": "Shakya Siddharth Tribhovanbhai",
+        "admission_no": "U24CH039"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B501",
+    "roommates": [
+      {
+        "name": "Pratipalsinh Jadeja",
+        "admission_no": "U24AI121"
+      },
+      {
+        "name": "Sumit Joshi",
+        "admission_no": "I24PH033"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B502",
+    "roommates": [
+      {
+        "name": "Prakhar Dwivedi",
+        "admission_no": "U24EV030"
+      },
+      {
+        "name": "Rupreet",
+        "admission_no": "U24EC106"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B503",
+    "roommates": [
+      {
+        "name": "Raunak Kumar",
+        "admission_no": "U24AI109"
+      },
+      {
+        "name": "Hitesh Behani",
+        "admission_no": "U24EV040"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B504",
+    "roommates": [
+      {
+        "name": "Adity Agarwal",
+        "admission_no": "U24ME130"
+      },
+      {
+        "name": "Sidhant Sharma",
+        "admission_no": "U24CH011"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B505",
+    "roommates": [
+      {
+        "name": "Shuvrangshu Barua",
+        "admission_no": "I24AI014"
+      },
+      {
+        "name": "Kosna Vishnuvardhan",
+        "admission_no": "U24EP018"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B507",
+    "roommates": [
+      {
+        "name": "Arpit Mishra",
+        "admission_no": "I24AI019"
+      },
+      {
+        "name": "Divyam Bhandari",
+        "admission_no": "U24CH036"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B508",
+    "roommates": [
+      {
+        "name": "Dhruv Vora",
+        "admission_no": "U24IC014"
+      },
+      {
+        "name": "Dube Prashant Mukeshbhai",
+        "admission_no": "U24ME238"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B509",
+    "roommates": [
+      {
+        "name": "Shailendra Rai",
+        "admission_no": "U24ME155"
+      },
+      {
+        "name": "Akash Kumar",
+        "admission_no": "U24EC021"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B510",
+    "roommates": [
+      {
+        "name": "Shubham Kumar",
+        "admission_no": "U24EV006"
+      },
+      {
+        "name": "Yadav Divya Nikunj",
+        "admission_no": "U24AI120"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B511",
+    "roommates": [
+      {
+        "name": "Sheersh Maheshwari",
+        "admission_no": "U24CS049"
+      },
+      {
+        "name": "Thacker Hariom Mukeshbhai",
+        "admission_no": "U24EC075"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B512",
+    "roommates": [
+      {
+        "name": "Animesh Shukla",
+        "admission_no": "U24EC059"
+      },
+      {
+        "name": "Srijan Mishra",
+        "admission_no": "I24MA008"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B513",
+    "roommates": [
+      {
+        "name": "Gamit Jignalkumar Maheshbhai",
+        "admission_no": "U24MC018"
+      },
+      {
+        "name": "Roshan Kumar Kushwaha",
+        "admission_no": "U24CS154"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B514",
+    "roommates": [
+      {
+        "name": "Jaypal Usare",
+        "admission_no": "U24ME050"
+      },
+      {
+        "name": "Sen Ved Sandeep",
+        "admission_no": "U24MC015"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B515",
+    "roommates": [
+      {
+        "name": "Priyanshu Jaiswal",
+        "admission_no": "U24ME164"
+      },
+      {
+        "name": "Ayush Suresh Chaudhari",
+        "admission_no": "U24CH089"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B601",
+    "roommates": [
+      {
+        "name": "Ayush Kumar",
+        "admission_no": "U24EE062"
+      },
+      {
+        "name": "Suraj Divyanand Deshbhandari",
+        "admission_no": "U24EE068"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B603",
+    "roommates": [
+      {
+        "name": "Parag Patle",
+        "admission_no": "I24MA035"
+      },
+      {
+        "name": "Arpit Singh",
+        "admission_no": "U24CE020"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B604",
+    "roommates": [
+      {
+        "name": "Vishal Singh",
+        "admission_no": "U24ME180"
+      },
+      {
+        "name": "Kadiri Karthik",
+        "admission_no": "U24EC141"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B605",
+    "roommates": [
+      {
+        "name": "Sumit Kumar",
+        "admission_no": "U24ME131"
+      },
+      {
+        "name": "Chaudhari Nilaykumar Dhirajbhai",
+        "admission_no": "U24CE052"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B606",
+    "roommates": [
+      {
+        "name": "Vaniya Kaushik Parshotambhai",
+        "admission_no": "U24ME189"
+      },
+      {
+        "name": "Priyanshu Maru",
+        "admission_no": "U24ME203"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B607",
+    "roommates": [
+      {
+        "name": "Vipul Poonia",
+        "admission_no": "U24ME034"
+      },
+      {
+        "name": "Rohit Raj",
+        "admission_no": "U24EV039"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B608",
+    "roommates": [
+      {
+        "name": "Jayant Kumawat",
+        "admission_no": "U24EV001"
+      },
+      {
+        "name": "Ansh Surti",
+        "admission_no": "U24EC129"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B609",
+    "roommates": [
+      {
+        "name": "Dev Sangam Kumar",
+        "admission_no": "U24AI070"
+      },
+      {
+        "name": "Mehta Om Manishbhai",
+        "admission_no": "U24EC022"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B610",
+    "roommates": [
+      {
+        "name": "Om Patel",
+        "admission_no": "U24EC029"
+      },
+      {
+        "name": "Jainit Patel",
+        "admission_no": "U24CH087"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B611",
+    "roommates": [
+      {
+        "name": "Mhaske Neel Arun",
+        "admission_no": "U24AI045"
+      },
+      {
+        "name": "Aryan",
+        "admission_no": "U24EC089"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B612",
+    "roommates": [
+      {
+        "name": "Premlani Rishi Mukeshkumar",
+        "admission_no": "U24EC026"
+      },
+      {
+        "name": "Kanishk Kumar Meena",
+        "admission_no": "U24CE084"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B613",
+    "roommates": [
+      {
+        "name": "Daksh Veer Singh Rathore",
+        "admission_no": "U24ME019"
+      },
+      {
+        "name": "Dhiraj Mali",
+        "admission_no": "U24ME030"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B614",
+    "roommates": [
+      {
+        "name": "Patel Prince",
+        "admission_no": "U24CS127"
+      },
+      {
+        "name": "Patel Atul Rajesh",
+        "admission_no": "U24EV035"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B615",
+    "roommates": [
+      {
+        "name": "Varsat Sahilbhai Dineshkumar",
+        "admission_no": "U24ME220"
+      },
+      {
+        "name": "Aditya Raj",
+        "admission_no": "U24EV005"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B701",
+    "roommates": [
+      {
+        "name": "Rohit Prajapat",
+        "admission_no": "U24MC007"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B703",
+    "roommates": [
+      {
+        "name": "Yarlagadda Sarath Chaitanya",
+        "admission_no": "U24AI111"
+      },
+      {
+        "name": "Milan Singh Bhadoria",
+        "admission_no": "U24EC074"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B705",
+    "roommates": [
+      {
+        "name": "Mehul Jajoriya",
+        "admission_no": "U24ME091"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B708",
+    "roommates": [
+      {
+        "name": "Kasha Ashwith",
+        "admission_no": "U24AI106"
+      },
+      {
+        "name": "Yug Ganeshbhai Rohit",
+        "admission_no": "U24EC038"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "B710",
+    "roommates": [
+      {
+        "name": "Shreyash Gupta",
+        "admission_no": "U24ME069"
+      },
+      {
+        "name": "Kaustubh Kapil",
+        "admission_no": "U24EC049"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C201",
+    "roommates": [
+      {
+        "name": "Mishra Sumit Ashish",
+        "admission_no": "U24ME211"
+      },
+      {
+        "name": "Nikhil Yadav",
+        "admission_no": "U24ME261"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C202",
+    "roommates": [
+      {
+        "name": "Chandole Bhaveshkumar Sanjaybhai",
+        "admission_no": "U24EE060"
+      },
+      {
+        "name": "Kharat Ayush Nitin",
+        "admission_no": "U24CH130"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C203",
+    "roommates": [
+      {
+        "name": "Jha Abhishek Sanjay",
+        "admission_no": "U24ME128"
+      },
+      {
+        "name": "Mukesh",
+        "admission_no": "U24CE021"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C204",
+    "roommates": [
+      {
+        "name": "Aashish Meena",
+        "admission_no": "U24ME054"
+      },
+      {
+        "name": "Rupesh Chaudhary",
+        "admission_no": "U24CS035"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C205",
+    "roommates": [
+      {
+        "name": "Makwana Rakshit Mansukhbhai",
+        "admission_no": "U24CS106"
+      },
+      {
+        "name": "Gediya Dishant Ajaybhai",
+        "admission_no": "U24CE067"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C206",
+    "roommates": [
+      {
+        "name": "Chaudhari Rajkumar Riteshbhai",
+        "admission_no": "U24EP021"
+      },
+      {
+        "name": "Makwana Jay",
+        "admission_no": "U24CH035"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C207",
+    "roommates": [
+      {
+        "name": "Niraj Pal Meena",
+        "admission_no": "U24ME129"
+      },
+      {
+        "name": "Tankala Bhaskar Teja",
+        "admission_no": "U24AI060"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C208",
+    "roommates": [
+      {
+        "name": "Atharva Sharma",
+        "admission_no": "U24IC012"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C209",
+    "roommates": [
+      {
+        "name": "Patel Mayank Sushil Kumar",
+        "admission_no": "U24MC010"
+      },
+      {
+        "name": "Trivedi Rudrakumar",
+        "admission_no": "U24AI068"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C210",
+    "roommates": [
+      {
+        "name": "Pratik Kumar Lalwani",
+        "admission_no": "U24EE084"
+      },
+      {
+        "name": "Patel Dhruv Hemang",
+        "admission_no": "U24CH109"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C211",
+    "roommates": [
+      {
+        "name": "Parmar Mehulkumar Rameshbhai",
+        "admission_no": "U24CS075"
+      },
+      {
+        "name": "Kondaveeti Elisha Babu",
+        "admission_no": "U24EV038"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C212",
+    "roommates": [
+      {
+        "name": "Pinninti Umesh Chandra",
+        "admission_no": "U24CS040"
+      },
+      {
+        "name": "Anik Lokesh",
+        "admission_no": "U24CE123"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C213",
+    "roommates": [
+      {
+        "name": "Rudra Jaysukhbhai Viradiya",
+        "admission_no": "U24ME038"
+      },
+      {
+        "name": "Rathod Yuvaraj Singh",
+        "admission_no": "U24ME134"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C303",
+    "roommates": [
+      {
+        "name": "Jvel Kothiya",
+        "admission_no": "U24CS025"
+      },
+      {
+        "name": "Patel Jay",
+        "admission_no": "U24CS026"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C304",
+    "roommates": [
+      {
+        "name": "Sarvaiya Dhruv Vinodbhai",
+        "admission_no": "U24CS034"
+      },
+      {
+        "name": "Dhruv Shashidhar Dibbad",
+        "admission_no": "U24EE111"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C305",
+    "roommates": [
+      {
+        "name": "Dev Shyara",
+        "admission_no": "U24CS056"
+      },
+      {
+        "name": "Anshul Verma",
+        "admission_no": "U24AI094"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C306",
+    "roommates": [
+      {
+        "name": "Goswami Devengiri Vasantgiri",
+        "admission_no": "U24ME216"
+      },
+      {
+        "name": "Nihar Kamlesh Mehta",
+        "admission_no": "U24CS036"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C307",
+    "roommates": [
+      {
+        "name": "Ayush Prakash",
+        "admission_no": "U24CH041"
+      },
+      {
+        "name": "Chauhan Rutvikbhai Dhirubhai",
+        "admission_no": "U24CE107"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C308",
+    "roommates": [
+      {
+        "name": "Joshi Om Sujalkumar",
+        "admission_no": "U24CS032"
+      },
+      {
+        "name": "Rayirth Kamath",
+        "admission_no": "U24CS037"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C309",
+    "roommates": [
+      {
+        "name": "Priyanshu Kumar",
+        "admission_no": "U24AI095"
+      },
+      {
+        "name": "Gowthu Naga Venkata Satyanarayana",
+        "admission_no": "U24CE047"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C310",
+    "roommates": [
+      {
+        "name": "Vikash Kumar",
+        "admission_no": "U24CS145"
+      },
+      {
+        "name": "Kethavath Naresh",
+        "admission_no": "I24CY030"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C311",
+    "roommates": [
+      {
+        "name": "Akshat Gohil",
+        "admission_no": "U24ME196"
+      },
+      {
+        "name": "Gadhavi Bhaveshbhai Vitthalbhai",
+        "admission_no": "U24CE112"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C312",
+    "roommates": [
+      {
+        "name": "Vaghela Nisarg Dineshbhai",
+        "admission_no": "U24AI075"
+      },
+      {
+        "name": "Patel Shravya Jitendrakumar",
+        "admission_no": "U24AI090"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C313",
+    "roommates": [
+      {
+        "name": "Mannat Debnath",
+        "admission_no": "U24CS141"
+      },
+      {
+        "name": "Ojash Sanjay Gupta",
+        "admission_no": "U24AI057"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C314",
+    "roommates": [
+      {
+        "name": "Sachin",
+        "admission_no": "U24ME223"
+      },
+      {
+        "name": "Akarsh Jain",
+        "admission_no": "U24CS143"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C315",
+    "roommates": [
+      {
+        "name": "Rajeev Kumar",
+        "admission_no": "U24CE064"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C402",
+    "roommates": [
+      {
+        "name": "Aditya Raj Vats",
+        "admission_no": "I24PH028"
+      },
+      {
+        "name": "Prajapati Princekumar",
+        "admission_no": "I24PH038"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C403",
+    "roommates": [
+      {
+        "name": "Manem Veer Sai Manas",
+        "admission_no": "U24EC046"
+      },
+      {
+        "name": "Puppala Venkata Sai Pavan",
+        "admission_no": "U24EC126"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C404",
+    "roommates": [
+      {
+        "name": "Maheshwari Sandeep Jayantilal",
+        "admission_no": "U24EE064"
+      },
+      {
+        "name": "Harsh Vasudev",
+        "admission_no": "U24ME055"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C405",
+    "roommates": [
+      {
+        "name": "Aniket Chauhan",
+        "admission_no": "I24MA004"
+      },
+      {
+        "name": "Prasad Aayush Shambhu",
+        "admission_no": "U24AI091"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C406",
+    "roommates": [
+      {
+        "name": "Dipendra Singh Meena",
+        "admission_no": "U24ME074"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C407",
+    "roommates": [
+      {
+        "name": "Aryan Sehra",
+        "admission_no": "U24MC004"
+      },
+      {
+        "name": "Yash Raj",
+        "admission_no": "I24PH009"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C408",
+    "roommates": [
+      {
+        "name": "Tandel Aryan Kalpeshbhai",
+        "admission_no": "U24EC061"
+      },
+      {
+        "name": "Patel Dhyey",
+        "admission_no": "U24EC073"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C411",
+    "roommates": [
+      {
+        "name": "Nimbhore Harshvardhan",
+        "admission_no": "U24ME186"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C412",
+    "roommates": [
+      {
+        "name": "Kshitij Mangal",
+        "admission_no": "U24EE056"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C413",
+    "roommates": [
+      {
+        "name": "Prajapati Hardik Ratansingh",
+        "admission_no": "U24ME132"
+      },
+      {
+        "name": "Kapadiya Divya Jayantilal",
+        "admission_no": "U24EV028"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C414",
+    "roommates": [
+      {
+        "name": "Malavath Keerthan",
+        "admission_no": "U24CS115"
+      },
+      {
+        "name": "Chauhan Aditya Kapil",
+        "admission_no": "U24CS157"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C415",
+    "roommates": [
+      {
+        "name": "Kapadia Jay Anilkumar",
+        "admission_no": "I24AI007"
+      },
+      {
+        "name": "Devraj Dhakar",
+        "admission_no": "U24EC037"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C502",
+    "roommates": [
+      {
+        "name": "Aryan Jain",
+        "admission_no": "U24AI069"
+      },
+      {
+        "name": "Pulkit Sharma",
+        "admission_no": "U24AI086"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C503",
+    "roommates": [
+      {
+        "name": "Krishna Gupta",
+        "admission_no": "U24EV015"
+      },
+      {
+        "name": "Lakum Yug Gopalbhai",
+        "admission_no": "U24EC034"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C504",
+    "roommates": [
+      {
+        "name": "Mohit Ahirwar",
+        "admission_no": "U24ME026"
+      },
+      {
+        "name": "Desai Vansh Mahesh",
+        "admission_no": "U24EV021"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C505",
+    "roommates": [
+      {
+        "name": "Shlok Khandelwal",
+        "admission_no": "U24EC044"
+      },
+      {
+        "name": "Aman Rana",
+        "admission_no": "U24EV019"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C506",
+    "roommates": [
+      {
+        "name": "Pranav Singh",
+        "admission_no": "U24EC036"
+      },
+      {
+        "name": "Aviral Singh",
+        "admission_no": "U24CH020"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C507",
+    "roommates": [
+      {
+        "name": "Anuj",
+        "admission_no": "U24EE082"
+      },
+      {
+        "name": "Kanojia Harshvardhan Pankaj",
+        "admission_no": "U24CH123"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C508",
+    "roommates": [
+      {
+        "name": "Dabgar Meet Manojbhai",
+        "admission_no": "I24AI018"
+      },
+      {
+        "name": "Aishwary Gupta",
+        "admission_no": "U24EC019"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C509",
+    "roommates": [
+      {
+        "name": "Solanki Aman Vasantkumar",
+        "admission_no": "U24CE086"
+      },
+      {
+        "name": "Patel Shrey Mayur",
+        "admission_no": "U24CH104"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C510",
+    "roommates": [
+      {
+        "name": "Sahil Chaudhari",
+        "admission_no": "U24CH006"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C511",
+    "roommates": [
+      {
+        "name": "Aryan Singh",
+        "admission_no": "U24ME185"
+      },
+      {
+        "name": "Yash Kumar Mandraha",
+        "admission_no": "U24ME194"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C513",
+    "roommates": [
+      {
+        "name": "Thomas Isaac",
+        "admission_no": "U24ME233"
+      },
+      {
+        "name": "Dhrumil Jayeshkumar Solanki",
+        "admission_no": "I24CY024"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C515",
+    "roommates": [
+      {
+        "name": "Govindu Bhanu Sankar",
+        "admission_no": "U24CS108"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C601",
+    "roommates": [
+      {
+        "name": "Chaudhari Roshan Devidas",
+        "admission_no": "U24EV003"
+      },
+      {
+        "name": "Navneet Yadav",
+        "admission_no": "U24CH101"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C607",
+    "roommates": [
+      {
+        "name": "Sarthak Satish Gadre",
+        "admission_no": "U24ME136"
+      },
+      {
+        "name": "Makwana Divy Sureshbhai",
+        "admission_no": "I24AI021"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C609",
+    "roommates": [
+      {
+        "name": "Gautam",
+        "admission_no": "U24ME191"
+      },
+      {
+        "name": "Jani Dashit Nileshbhai",
+        "admission_no": "U24CE100"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C610",
+    "roommates": [
+      {
+        "name": "Pratham Saini",
+        "admission_no": "U24CH012"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C611",
+    "roommates": [
+      {
+        "name": "Chandan Kumar",
+        "admission_no": "U24CS131"
+      },
+      {
+        "name": "Nikhil Verma",
+        "admission_no": "U24CE102"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C613",
+    "roommates": [
+      {
+        "name": "Patel Neel Balvantkumar",
+        "admission_no": "U24CS057"
+      },
+      {
+        "name": "Birari Jaykumar Anandbhai",
+        "admission_no": "U24CS137"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C615",
+    "roommates": [
+      {
+        "name": "Tarun Vadivelan",
+        "admission_no": "U24CS027"
+      },
+      {
+        "name": "Mandela Lalith Kumar",
+        "admission_no": "U24ME222"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C703",
+    "roommates": [
+      {
+        "name": "Mahavarkar Mayuresh Kishor",
+        "admission_no": "U24EC123"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C704",
+    "roommates": [
+      {
+        "name": "Jori Aryan Santosh",
+        "admission_no": "U24EV016"
+      },
+      {
+        "name": "Memon Jainul Abedin",
+        "admission_no": "U24CH078"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C705",
+    "roommates": [
+      {
+        "name": "Ninama Nitesh Pravibhai",
+        "admission_no": "U24AI113"
+      },
+      {
+        "name": "Aman Gajbhiye",
+        "admission_no": "U24CS156"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C706",
+    "roommates": [
+      {
+        "name": "Pingat Tanmay Santosh",
+        "admission_no": "U24EC119"
+      },
+      {
+        "name": "Ratlamwala Moiz",
+        "admission_no": "U24CH111"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C707",
+    "roommates": [
+      {
+        "name": "Parmar Dhairya Jaysukhbhai",
+        "admission_no": "U24ME168"
+      },
+      {
+        "name": "Mangroliya Aryan Atulbhai",
+        "admission_no": "U24CE089"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C708",
+    "roommates": [
+      {
+        "name": "Aryan Jangid",
+        "admission_no": "U24CH088"
+      },
+      {
+        "name": "Ankit Mishra",
+        "admission_no": "U24IC028"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C709",
+    "roommates": [
+      {
+        "name": "Sarthak Singh",
+        "admission_no": "U24EE087"
+      },
+      {
+        "name": "Mistry Jash Anand",
+        "admission_no": "U24ME095"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C710",
+    "roommates": [
+      {
+        "name": "Aayush",
+        "admission_no": "U24CS058"
+      },
+      {
+        "name": "Raj Gautam",
+        "admission_no": "U24CH083"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C711",
+    "roommates": [
+      {
+        "name": "Lobo Leon Simon Vinay",
+        "admission_no": "U24AI043"
+      },
+      {
+        "name": "Nishchay Deepak Mittal",
+        "admission_no": "U24AI044"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C801",
+    "roommates": [
+      {
+        "name": "Autee Jayesh Shripad",
+        "admission_no": "U24ME219"
+      },
+      {
+        "name": "Harman Pareek",
+        "admission_no": "U24IC008"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C804",
+    "roommates": [
+      {
+        "name": "Kasulabada Sai Karthik",
+        "admission_no": "U24EV043"
+      },
+      {
+        "name": "Shivam Meel",
+        "admission_no": "U24CE060"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C806",
+    "roommates": [
+      {
+        "name": "Mendonca Nashwin Nelson",
+        "admission_no": "U24ME176"
+      },
+      {
+        "name": "Uttkarsh Kumar Rao",
+        "admission_no": "U24CE071"
+      }
+    ]
+  },
+  {
+    "hostel": "Swami Vivekanad Bhavan",
+    "room": "C808",
+    "roommates": [
+      {
+        "name": "Nikhil Upadhyay",
+        "admission_no": "U24ME226"
+      }
+    ]
+  }
+]
