@@ -133,7 +133,9 @@ function renderRoomExchangeTable(selectedBranch) {
 }
 
 
-fetch("roommates.json")
+var mysite = "aayush-droid-8cb432.netlify.app";
+var api = "roommates.json";
+fetch(`https://${mysite}/${api}`)
   .then(res => res.json())
   .then(data => {
     roommateData = data;
