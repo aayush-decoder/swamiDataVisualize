@@ -35,6 +35,7 @@ function renderTableAndGraphs(selectedBranch) {
   renderTable(selectedBranch);
   renderFloorCharts(selectedBranch);
   renderRoomExchangeTable(selectedBranch);
+  renderSquareWingChart(selectedBranch);
 }
 
 
@@ -132,9 +133,8 @@ function renderRoomExchangeTable(selectedBranch) {
   });
 }
 
-
 var mysite = "aayush-droid-8cb432.netlify.app";
-var api = "roommates.json";
+var api = "roommates_final.json";
 fetch(`https://${mysite}/${api}`)
   .then(res => res.json())
   .then(data => {
@@ -149,7 +149,7 @@ fetch(`https://${mysite}/${api}`)
         branchCount[branch] = (branchCount[branch] || 0) + 1;
       });
     });
-
+    
     
     const dropdown = document.getElementById("branchSelect");
     Array.from(branches).sort().forEach(branch => {
@@ -186,3 +186,52 @@ fetch(`https://${mysite}/${api}`)
 
     renderTableAndGraphs(""); 
   });
+
+
+  let squareWingChart;
+
+function renderSquareWingChart(selectedBranch) {
+  const squareFloorMap = Array(9).fill(0); 
+
+  roommateData.forEach(entry => {
+    const room = entry.room;
+
+    if (!/^[0-9]{2,3}$/.test(room)) return;
+
+    let floor;
+    if (room.length === 2) {
+      floor = 0; 
+    } else if (room.length === 3) {
+      floor = parseInt(room[0]);
+    }
+
+    if (floor >= 0 && floor <= 8) {
+      entry.roommates.forEach(rm => {
+        if (getBranch(rm.admission_no) === selectedBranch) {
+          squareFloorMap[floor]++;
+        }
+      });
+    }
+  });
+
+  const ctx = document.getElementById("SquareWingChart").getContext("2d");
+
+  if (squareWingChart) squareWingChart.destroy();
+
+  squareWingChart = new Chart(ctx, {
+    type: "bar",
+    data: {
+      labels: ["G", "1", "2", "3", "4", "5", "6", "7", "8"].map(f => `Floor ${f}`),
+      datasets: [{
+        label: "Square Wing",
+        data: squareFloorMap,
+        backgroundColor: "rgba(250,204,21,0.7)" 
+      }]
+    },
+    options: {
+      scales: {
+        y: { beginAtZero: true }
+      }
+    }
+  });
+}
